@@ -1,0 +1,8 @@
+{
+  "name": "SwagTV Official - Premium Live Sports Dashboard",
+  "description": "A world-class football streaming companion and match analysis dashboard. Powered by Gemini AI and HLS Signal Routing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
